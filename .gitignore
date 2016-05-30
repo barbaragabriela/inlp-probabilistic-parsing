@@ -1,2 +1,2 @@
-# corpus
-corpora/
+# Python byte code
+*.pyc
